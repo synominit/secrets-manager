@@ -1396,10 +1396,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@keeper-security/secrets-manager-core@16.0.12":
-  version "16.0.12"
-  resolved "https://registry.yarnpkg.com/@keeper-security/secrets-manager-core/-/secrets-manager-core-16.0.12.tgz#882299d4c18ddf828f20566c8f693e446e4a5ab9"
-  integrity sha512-i4ncaRAgPCHqhi+UkrhHvBfNyBT/yEHHXKukXgI/dCKDQWRVJgnkqdd9rSFM35viCD8F2mnPOz9I1VsE6H09MQ==
+"@keeper-security/secrets-manager-core@16.5.1":
+  version "16.5.1"
+  resolved "https://registry.yarnpkg.com/@keeper-security/secrets-manager-core/-/secrets-manager-core-16.5.1.tgz#b1760c6cd2d7e1a151e2e79163e5c65c4812b76b"
+  integrity sha512-tAV5+UtEAOr9S5BG58jsVVR//TGL+Gpt35MU8tF8sNdts2JXt89F71a42d6NamxjbMKwhfZoEzlxVOnEmgK05Q==
 
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"
